@@ -1,0 +1,7 @@
+As per last backup this is the last saved md5 checksum of the files in the ftp server
+
+17833c3e2a6b5bb82b048b7dfd07abd8  deal.txt
+
+7d261581070842a1a3d54e68c00d2010  contacts.txt
+
+ae554b6ea3a40a9297c1fcee9656f432  income.txt
